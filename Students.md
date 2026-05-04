@@ -19,7 +19,7 @@
 
 ### STEP 2 — Create the player
 
-- Where: Sprites
+- Where: Sprites.
 - Drag set mySprite to sprite of kind Player.
 - Click the small image and draw a player (simple square or smiley).
 - Rename the block variable to player (click the variable name).
